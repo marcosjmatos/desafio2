@@ -1,0 +1,13 @@
+{
+  "login": {
+    "user": "pushingit",
+    "password": "123456!"
+  },
+  "tareas": {
+    "tarea1": "Cepillarme",
+    "tarea2": "Bañarme",
+    "tarea3": "Vestirme",
+    "tarea4": "Prender la laptop",
+    "tarea5": "Programar"
+  }
+}
